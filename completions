@@ -1,0 +1,17 @@
+;;; Completion Initialization file.
+;; Version = 11
+;; Format is (<string> . <last-use-time>)
+;;  <string> is the completion
+;;  <last-use-time> is the time the completion was last used
+;;    If it is t, the completion will never be pruned from the file.
+;;    Otherwise it is in hours since origin.
+
+("setLanguage" . 447696)
+("stochastic" . 447522)
+("\\frametitle" . 447522)
+("fra\\\\\\\\\\" . 447522)
+("earthquakes" . 447808)
+("Markovian" . 447522)
+("Processes" . 447522)
+("Achorripsis" . 447522)
+("JSON.strstyle.metadata.controls.inputs" . 447696)
