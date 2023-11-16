@@ -3,9 +3,16 @@
 
 (setq mc/cmds-to-run-for-all
       '(
+	end-of-buffer
+	indent-for-tab-command
+	ivy-switch-buffer
+	lsp-ui-doc--handle-mouse-movement
+	org-delete-char
+	org-self-insert-command
 	))
 
 (setq mc/cmds-to-run-once
       '(
-	default-indent-new-line
+	comment-dwim
+	ignore
 	))

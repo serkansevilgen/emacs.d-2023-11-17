@@ -1,4 +1,4 @@
-;;;; Emacs Bookmark Format Version 1 ;;;; -*- coding: utf-8-emacs -*-
+;;;; Emacs Bookmark Format Version 1;;;; -*- coding: utf-8-emacs; mode: lisp-data -*-
 ;;; This format is meant to be slightly human-readable;
 ;;; nevertheless, you probably don't want to edit it.
 ;;; -*- End Of Bookmark File Format Version Stamp -*-
@@ -8,8 +8,8 @@
  (rear-context-string . "}\n       \n     \n")
  (position . 24339))
 ("org-capture-last-stored"
- (filename . "~/Dropbox/org/temblor_todo.org")
- (front-context-string . "** TODO Send Str")
- (rear-context-string . "2022-04-28 Thu>\n")
- (position . 7370))
+ (filename . "~/Dropbox/org/music_open_calls.org")
+ (front-context-string . "** TODO EMS Arti")
+ (rear-context-string . "ities.net/news/\n")
+ (position . 17623))
 )

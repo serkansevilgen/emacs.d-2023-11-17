@@ -6,12 +6,4 @@
 ;;    If it is t, the completion will never be pruned from the file.
 ;;    Otherwise it is in hours since origin.
 
-("setLanguage" . 447696)
-("stochastic" . 447522)
-("\\frametitle" . 447522)
-("fra\\\\\\\\\\" . 447522)
-("earthquakes" . 447808)
-("Markovian" . 447522)
-("Processes" . 447522)
-("Achorripsis" . 447522)
-("JSON.strstyle.metadata.controls.inputs" . 447696)
+("merge_test.py" . 465687)
